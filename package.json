@@ -2,7 +2,6 @@
   "name": "create-react-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://samples.openweathermap.org",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
