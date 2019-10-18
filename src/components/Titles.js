@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 class Titles extends React.Component {
     render(){
         return(
@@ -8,7 +7,6 @@ class Titles extends React.Component {
                 <h1>Weather Finder</h1>
                 <p>Find out temperature, conditions, and more!</p>
             </div>
-
         );
     }
 };
