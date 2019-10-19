@@ -10,7 +10,7 @@ class App extends React.Component {
   
   getWeather = async (e) => {
 
-    state = {
+    const state = {
       temperature: undefined,
       city: undefined,
       country: undefined,
