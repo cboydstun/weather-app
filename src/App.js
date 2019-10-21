@@ -57,7 +57,7 @@ class App extends React.Component {
         <div className="wrapper">
           <div className="main">
             <div className="container">
-              <div className="row">
+              <div className="col-xs-5 row">
                 <div className="col-xs-5 title-container">
                   <Titles />
                 </div>
